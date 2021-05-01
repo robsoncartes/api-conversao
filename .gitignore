@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Including WebStorm Ide files to '.gitignore' file
+.idea/*
